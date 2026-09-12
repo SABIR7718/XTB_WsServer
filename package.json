@@ -1,0 +1,22 @@
+{
+  "name": "sabir7718-ws-relay",
+  "version": "1.0.0",
+  "description": "SABIR7718 WebSocket relay server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "websocket",
+    "ws",
+    "relay",
+    "sabir7718"
+  ],
+  "author": "SABIR7718",
+  "license": "MIT",
+  "dependencies": {
+    "@sabir7718/log": "latest",
+    "dotenv": "latest",
+    "ws": "latest"
+  }
+}
